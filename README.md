@@ -79,3 +79,4 @@
 - - 1.parametre >> Çalışacak olan callback function
 - - 2.parametre >> Dolu bağımlılık dizisi
 - - `useEffect(()=>{},[page,name])`
+# 10-hi-react
